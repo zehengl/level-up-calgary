@@ -1,15 +1,12 @@
 # %%
-from pathlib import Path
-
 import librosa
-import pandas as pd
 import torch
 from tqdm import tqdm
 from transformers import Wav2Vec2ForCTC, Wav2Vec2Tokenizer
 
-entries = Path("output/entries.csv")
-assert entries.exists(), "entries.csv doesn't exist. Run fetch_yt_id.py if you haven't."
-df = pd.read_csv(entries)
+from utils import get_entries
+
+df = get_entries()
 df
 
 
