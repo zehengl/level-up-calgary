@@ -28,3 +28,8 @@ It will also install `jupyterlab` for notebook experience.
     mkdocs serve
 
 ## Credits
+
+- [Logo][1] by [Ampeross][2]
+
+[1]: https://www.iconfinder.com/icons/86848/minecraft_icon
+[2]: https://www.deviantart.com/ampeross
