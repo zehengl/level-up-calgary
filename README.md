@@ -6,7 +6,7 @@
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
 
-A study on Level Up, Calgary!
+A study on [Level Up, Calgary!][3]
 
 ## Environment
 
@@ -37,3 +37,4 @@ It will also install `jupyterlab` for notebook experience.
 
 [1]: https://www.iconfinder.com/icons/86848/minecraft_icon
 [2]: https://www.deviantart.com/ampeross
+[3]: https://www.calgary.ca/planning/downtown-level-up.html
