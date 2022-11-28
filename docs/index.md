@@ -4,4 +4,4 @@
 
 ## What are they talking about?
 
-![](wordcloud.png)
+![Wordcloud](wordcloud.png)
