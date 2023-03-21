@@ -7,6 +7,6 @@ youtube-dl==2021.12.17
 torch
 torchaudio
 torchvision
-transformers==4.27.1
+transformers==4.27.2
 librosa==0.10.0.post2
 wordcloud==1.8.2.2
