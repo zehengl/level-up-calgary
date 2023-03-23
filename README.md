@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/minecraft.png" alt="logo" height="196">
+    <img src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/minecraft.png" alt="logo" height="128">
 </div>
 
 # level-up-calgary
@@ -24,9 +24,7 @@ A study on [Level Up, Calgary!][3]
     python transcribe.py
     python analyze.py
 
-Use `pip install -r requirements-dev.txt` for development.
-It will install `pylint` and `black` to enable linting and auto-formatting.
-It will also install `jupyterlab` for notebook experience.
+Use `pip install -r requirements-dev.txt` for development and docs.
 
 ## Docs
 
