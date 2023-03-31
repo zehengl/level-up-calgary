@@ -1,10 +1,13 @@
 # %%
 import librosa
 import torch
+from dotenv import load_dotenv
 from tqdm import tqdm
 from transformers import Wav2Vec2ForCTC, Wav2Vec2Tokenizer
 
 from utils import get_entries
+
+load_dotenv()
 
 df = get_entries()
 df
