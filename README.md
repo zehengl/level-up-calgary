@@ -19,12 +19,24 @@ A study on [Level Up, Calgary!][3]
     .venv\Scripts\activate
     python -m pip install -U pip
     pip install -r requirements.txt
-    python fetch_yt_id.py
-    python fetch_yt_mp3.py
-    python transcribe.py
-    python analyze.py
 
-Use `pip install -r requirements-dev.txt` for development and docs.
+> Configure `--extra-index-url` if CUDA is available, e.g. `pip install --trusted-host download.pytorch.org --extra-index-url https://download.pytorch.org/whl/cu118 -r requirements.txt`.
+>
+> Use `requirements-dev.txt` for development and docs.
+
+## Usage
+
+1.  Create a `.env` file and specify the `REQUESTS_CA_BUNDLE` path if you are `unable to get local issuer certificate`
+
+        # .env
+        REQUESTS_CA_BUNDLE="..."
+
+2.  Run Scripts
+
+        python fetch_yt_id.py
+        python fetch_yt_mp3.py
+        python transcribe.py
+        python analyze.py
 
 ## Docs
 
