@@ -22,7 +22,7 @@ theme:
         name: Switch to light mode
   features:
     - header.autohide
-repo_name: zehengl/level-up-calgary
+repo_name: level-up-calgary
 repo_url: https://github.com/zehengl/level-up-calgary
 plugins:
   - search
