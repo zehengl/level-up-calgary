@@ -22,13 +22,14 @@ theme:
         name: Switch to light mode
   features:
     - header.autohide
+    - navigation.top
 repo_name: level-up-calgary
 repo_url: https://github.com/zehengl/level-up-calgary
 plugins:
   - search
   - tags
   - glightbox:
-      auto_caption: True
+      auto_caption: true
   - minify:
       minify_html: true
   - git-revision-date-localized:
