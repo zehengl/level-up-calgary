@@ -5,7 +5,7 @@
 # level-up-calgary
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
-[![pages-build-deployment](https://github.com/zehengl/level-up-calgary/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/zehengl/level-up-calgary/actions/workflows/pages/pages-build-deployment)
+[![GitHub Pages](https://github.com/zehengl/level-up-calgary/actions/workflows/gh-deploy.yml/badge.svg)](https://github.com/zehengl/level-up-calgary/actions/workflows/gh-deploy.yml)
 
 A study on [Level Up, Calgary!][3]
 
