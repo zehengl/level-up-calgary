@@ -1,4 +1,4 @@
-beautifulsoup4==4.12.2
+beautifulsoup4==4.12.3
 librosa==0.10.1
 pandas==2.1.4
 python-dotenv==1.0.0
