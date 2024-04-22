@@ -8,6 +8,6 @@ torch==2.2.2
 torchaudio==2.2.2
 torchvision==0.17.2
 tqdm==4.66.2
-transformers==4.39.3
+transformers==4.40.0
 wordcloud==1.9.3
 youtube-dl==2021.12.17
