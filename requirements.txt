@@ -1,6 +1,6 @@
 beautifulsoup4==4.12.3
 librosa==0.10.2.post1
-pandas==2.2.2
+pandas==2.2.3
 python-dotenv==1.0.1
 requests==2.32.3
 seaborn==0.13.2
