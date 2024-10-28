@@ -7,7 +7,7 @@ seaborn==0.13.2
 torch==2.5.0
 torchaudio==2.5.0
 torchvision==0.20.0
-tqdm==4.66.5
+tqdm==4.66.6
 transformers==4.46.0
 wordcloud==1.9.3
 youtube-dl==2021.12.17
