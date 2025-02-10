@@ -1,4 +1,4 @@
-beautifulsoup4==4.13.1
+beautifulsoup4==4.13.3
 librosa==0.10.2.post1
 pandas==2.2.3
 python-dotenv==1.0.1
@@ -8,6 +8,6 @@ torch==2.6.0
 torchaudio==2.6.0
 torchvision==0.21.0
 tqdm==4.67.1
-transformers==4.48.2
+transformers==4.48.3
 wordcloud==1.9.4
 youtube-dl==2021.12.17
