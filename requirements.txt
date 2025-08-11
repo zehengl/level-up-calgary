@@ -4,10 +4,10 @@ pandas==2.3.1
 python-dotenv==1.1.1
 requests==2.32.4
 seaborn==0.13.2
-torch==2.7.1
-torchaudio==2.7.1
-torchvision==0.22.1
+torch==2.8.0
+torchaudio==2.8.0
+torchvision==0.23.0
 tqdm==4.67.1
-transformers==4.54.1
+transformers==4.55.0
 wordcloud==1.9.4
 youtube-dl==2021.12.17
