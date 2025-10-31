@@ -1,13 +1,9 @@
-<div align="center">
-    <img src="https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/minecraft.png" alt="logo" height="128">
-</div>
-
 # level-up-calgary
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
 [![GitHub Pages](https://github.com/zehengl/level-up-calgary/actions/workflows/gh-deploy.yml/badge.svg)](https://github.com/zehengl/level-up-calgary/actions/workflows/gh-deploy.yml)
 
-A study on [Level Up, Calgary!][3]
+A study on [Level Up, Calgary!][1]
 
 ## Environment
 
@@ -42,10 +38,4 @@ A study on [Level Up, Calgary!][3]
 
     mkdocs serve
 
-## Credits
-
-- [Logo][1] by [Ampeross][2]
-
-[1]: https://www.iconfinder.com/icons/86848/minecraft_icon
-[2]: https://www.deviantart.com/ampeross
-[3]: https://www.calgary.ca/planning/downtown-level-up.html
+[1]: https://www.calgary.ca/planning/downtown-level-up.html
