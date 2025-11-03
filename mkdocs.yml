@@ -3,8 +3,6 @@ nav:
   - Home: index.md
 theme:
   name: material
-  favicon: https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/minecraft.png
-  logo: https://cdn1.iconfinder.com/data/icons/ampola-final-by-ampeross/256/minecraft.png
   font:
     text: Roboto
   palette:
