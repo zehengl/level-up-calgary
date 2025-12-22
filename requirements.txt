@@ -9,5 +9,5 @@ torchaudio==2.9.1
 torchvision==0.24.1
 tqdm==4.67.1
 transformers==4.57.3
-wordcloud==1.9.4
+wordcloud==1.9.5
 youtube-dl==2021.12.17
